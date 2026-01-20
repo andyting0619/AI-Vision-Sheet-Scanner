@@ -1,4 +1,4 @@
-# Neuro-Symbolic Logic Validator
+# AI Vision Sheet Scanner
 - A web application for converting pictures or PDF documents into structured Excel spreadsheets using LLaMa-4 models.
 # The Link to the Demo Web Application
 
