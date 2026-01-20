@@ -1,1 +1,6 @@
-streamlit>=1.26.0
+streamlit
+groq
+pymupdf
+Pillow
+pandas
+openpyxl
