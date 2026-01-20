@@ -1,5 +1,5 @@
 # Neuro-Symbolic Logic Validator
-- A simple web application for neuro-symbolic logic validator using Groq API.
+- A web application for converting pictures or PDF documents into structured Excel spreadsheets using LLaMa-4 models.
 # The Link to the Demo Web Application
 
 # Requirement
